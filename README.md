@@ -1,7 +1,5 @@
 # POSTMAN
-<img width="1282" alt="Снимок экрана 2024-12-24 в 23 10 00" src="https://github.com/user-attachments/assets/bf9b8dc1-db54-4192-8573-aae433a963d1" />
-<img width="1282" alt="Снимок экрана 2024-12-24 в 23 13 45" src="https://github.com/user-attachments/assets/22133031-9a0c-499e-9b9b-c26e8137d0ca" />
-<img width="1282" alt="Снимок экрана 2024-12-24 в 23 15 28" src="https://github.com/user-attachments/assets/6e24b05a-814a-4375-a25f-0a569488b883" />
-<img width="1273" alt="Снимок экрана 2024-12-24 в 23 18 40" src="https://github.com/user-attachments/assets/24edd31f-450f-46f2-8da6-3099535d40f6" />
-<img width="1282" alt="Снимок экрана 2024-12-24 в 23 28 49" src="https://github.com/user-attachments/assets/ecb96041-4d8b-41de-8a27-d6dfca68dad6" />
-<img width="1276" alt="Снимок экрана 2024-12-24 в 23 31 34" src="https://github.com/user-attachments/assets/f4f4c49e-8ee1-4613-8f00-1adfd6369264" />
+
+<img width="1284" alt="Снимок экрана 2024-12-26 в 13 23 52" src="https://github.com/user-attachments/assets/2b27885b-0572-490e-af34-7b705f71ce72" />
+<img width="1284" alt="Снимок экрана 2024-12-26 в 13 30 07" src="https://github.com/user-attachments/assets/7bfbcf2b-2341-44e3-a348-408f0277aea7" />
+<img width="1273" alt="Снимок экрана 2024-12-26 в 13 34 09" src="https://github.com/user-attachments/assets/e662addc-fefa-42cb-a1cf-13a0f05a365e" />
